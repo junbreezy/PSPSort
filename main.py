@@ -1,3 +1,13 @@
+# --------------------------------------------------------
+# PSPSort
+#
+# Force organize your PSP, PS1 games on your PSP 
+# alphabetically when transferring over your games.
+#
+# --
+# main.py
+# --------------------------------------------------------
+
 import os
 import shutil
 import time
